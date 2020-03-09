@@ -1,0 +1,30 @@
+/* Stili To Do List */
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+input {
+    float: left;
+    font-size: 22px;
+    border: 2px solid #CCC;
+    width: 400px;
+    padding: 20px;
+}
+
+ul {
+    float: left;
+    list-style: none;
+}
+
+.addButton {
+    float: left;
+    padding: 20px;
+    width: 100px;
+    background: #ccc;
+    color: #000;
+    border: 2px solid #cfcfcf;
+    text-align: center;
+    font-size: 22px;
+}
